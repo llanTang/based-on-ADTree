@@ -10,5 +10,5 @@
 #define testRep_hpp
 
 #include <stdio.h>
-void report(int target,  int *mb);
+void report(int target,  int *mb,char*mb_file);
 #endif /* testRep_hpp */
