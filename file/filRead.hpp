@@ -10,5 +10,5 @@
 #define filRead_hpp
 
 #include <stdio.h>
-
+void preArg(int casenum,char *data_file);
 #endif /* filRead_hpp */
