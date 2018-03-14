@@ -21,4 +21,5 @@ extern int **net;
 extern double prec;
 extern double recall;
 extern double dis;
+extern bool flag;
 #endif /* datavar_h */
